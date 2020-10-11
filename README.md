@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there! I am Fahad 👋
+
+[![Linkedin](https://www.linkedin.com/in/fahadansar1/)]
 
 <!--
 **fahad-ansar/fahad-ansar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
