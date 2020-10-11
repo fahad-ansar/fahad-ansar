@@ -1,18 +1,17 @@
 ### Hi there! I am Fahad 👋
 
-[![Linkedin Badge](https://www.linkedin.com/in/fahadansar1/)]
+lnked in badge here
+google+ badge here
+instagram badge here
 
-<!--
-**fahad-ansar/fahad-ansar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+A phenaus and ferb photo here
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+- 🔭 I’m currently working on a python time tracking app
+- 🌱 I’m currently learning how to use terminal effectively
+- 👯 I’m looking to collaborate on AI
+- 🤔 I’m looking for help with Developer Operations
+- 💬 Ask me about Object Oriented programming
+- ⚡ Fun fact: Nothing stays but you will!
+
