@@ -1,3 +1,11 @@
+
+<p align="center">
+
+  <img src="https://giphy.com/gifs/creative-coding-programming-zgduo4kWRRDVK" alt="Coder GIF" width="500" height="400">
+  
+</p>
+
+
 ### Hi there! I am Fahad 👋
 
 lnked in badge here
