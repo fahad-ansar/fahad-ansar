@@ -1,7 +1,7 @@
 
 <p align="center">
 
-  <img src="https://media.giphy.com/media/ZdUGNB3D5Qb6sKKTke/giphy.gif" alt="Coder GIF">
+  <img src="https://media.giphy.com/media/12B39IawiNS7QI/giphy.gif" alt="Coder GIF">
   
 </p>
 
