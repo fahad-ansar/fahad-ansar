@@ -1,7 +1,7 @@
 
 <p align="center">
 
-  <img src="https://giphy.com/gifs/creative-coding-programming-zgduo4kWRRDVK" alt="Coder GIF" width="500" height="400">
+  <img src="https://giphy.com/gifs/creative-coding-programming-zgduo4kWRRDVK" alt="Coder GIF">
   
 </p>
 
