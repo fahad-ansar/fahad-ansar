@@ -11,7 +11,7 @@
   *""You don't have to be great to start, but you have to start to be great""*
 <!--
 [![Repos Badge](https://badges.pufler.dev/repos/fahad-ansar)](https://badges.pufler.dev)
---!>
+-->
 
 </div>
 
