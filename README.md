@@ -61,7 +61,7 @@
 
 - 🍀 Excited to discuss about Machine Learning
 
-- ⚡ Fun fact: Nothing stays but you will!
+- ⚡ Fun fact about me: _ am ambidextral!_
 
 
 - 💬 Favourite Quotes: 
