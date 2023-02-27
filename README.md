@@ -73,19 +73,19 @@
 
 <div align="center">
 
-<code><img height="40" src="https://user-images.githubusercontent.com/44476743/221654315-9cc8d782-1a0f-46fe-a183-e3728a88d3c1.png"></code>
+<code><img height="40" src="https://user-images.githubusercontent.com/44476743/221657686-769796c7-10d2-411f-8d44-888537e9123d.png"></code>
 <code><img height="40" src="https://user-images.githubusercontent.com/44476743/221654317-2f1f2609-2af5-4c2a-9e6b-dd5a0a54b0fd.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="40" src="https://user-images.githubusercontent.com/44476743/221660357-8e2d848c-acb9-4453-bb32-aea9cfc9514e.png"></code>
 
 <br />
 
   
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
+<code><img height="40" src="https://user-images.githubusercontent.com/44476743/221658208-7dc9ca83-4bd3-41db-b0a5-0e5a4dde5bff.png"></code>
+<code><img height="40" src="https://user-images.githubusercontent.com/44476743/221660355-86978774-2bb4-47fc-8598-2189d390dfc0.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 
 
