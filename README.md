@@ -3,7 +3,7 @@
 
   <img src="https://media.giphy.com/media/12B39IawiNS7QI/giphy.gif" height="200px" alt="Coder GIF">
   
-
+</p>
 
 
 <div align="center">
@@ -68,4 +68,7 @@
 </div>
 </details>
 
-</p>
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fahad-ansar&layout=compact)](https://github.com/fahad-ansar/github-readme-stats)
+
