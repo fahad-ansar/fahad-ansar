@@ -1,7 +1,7 @@
 
 <p align="center">
 
-  <img src="https://media.giphy.com/media/12B39IawiNS7QI/giphy.gif" height="45px" alt="Coder GIF">
+  <img src="https://media.giphy.com/media/12B39IawiNS7QI/giphy.gif" height="160px" alt="Coder GIF">
   
 </p>
 
@@ -20,11 +20,11 @@
 
 <br/>
  
-### I am a🎓 Computer Science Student  <a href="https://brocku.ca/programs/undergraduate/computer-science/">@Faculty of Computer Science Brock University</a>
 
 <details>
-<summary> # <img src="https://media.giphy.com/media/mtAU9hD8qdrBC/giphy.gif" width="50" draggable="false" > I am currently.. </summary>
+<summary> <img src="https://media.giphy.com/media/mtAU9hD8qdrBC/giphy.gif" width="20" draggable="false" > I am currently.. </summary>
 
+- 🎓 .. a Computer Science Student  <a href="https://brocku.ca/programs/undergraduate/computer-science/">@Faculty of Computer Science Brock University</a>
 
 - 📖 ..Reading: "**The Definitive Guide: Master the World's Most-Used Programming Language**" by [@David Flanagan](https://davidflanagan.com/)
 
@@ -43,7 +43,8 @@
   > “Take chances, make mistakes. That's how you grow.” - Mary Tyler Moore
 
 <details>
-  <summary># 🧰 My Skills</summary>
+  <summary>
+    🧰 My Skills</summary>
 
 <div align="center">
 
