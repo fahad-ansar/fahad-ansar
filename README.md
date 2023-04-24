@@ -16,13 +16,13 @@
 </div>
 
 
-<p> ## Hey I'm [Fahad!](https://www.linkedin.com/in/fahadansar1/) 👋 </p>
+## Hey I'm [Fahad!](https://www.linkedin.com/in/fahadansar1/) 👋 
 
 <br/>
  
 
 <details>
-<summary> <img src="https://media.giphy.com/media/mtAU9hD8qdrBC/giphy.gif" width="20" draggable="false" > I am currently.. </summary>
+<summary> <img src="https://media.giphy.com/media/mtAU9hD8qdrBC/giphy.gif" width="40" draggable="false" > I am currently.. </summary>
 
 - 🎓 .. a Computer Science Student  <a href="https://brocku.ca/programs/undergraduate/computer-science/">@Faculty of Computer Science Brock University</a>
 
@@ -36,8 +36,8 @@
 
 </details>
 
-- ⚡ Fun fact about me: _ I am ambidextral!_
-- 💬 Favourite Quotes: 
+###⚡ Fun fact about me: _ I am ambidextral!_
+### 💬 Favourite Quotes: 
 
   > “Learn from the mistakes of others. You can't live long enough to make them all yourself.” - Eleanor Roosevelt. <br/>
   > “Take chances, make mistakes. That's how you grow.” - Mary Tyler Moore
