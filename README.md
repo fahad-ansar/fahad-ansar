@@ -36,8 +36,8 @@
 
 </details>
 
-###⚡ Fun fact about me: _ I am ambidextral!_
-### 💬 Favourite Quotes: 
+### Fun fact about me ⚡: _I am ambidextral!_
+### Favourite Quotes 💬: 
 
   > “Learn from the mistakes of others. You can't live long enough to make them all yourself.” - Eleanor Roosevelt. <br/>
   > “Take chances, make mistakes. That's how you grow.” - Mary Tyler Moore
