@@ -1,7 +1,7 @@
 
 <p align="center">
 
-  <img src="https://media.giphy.com/media/12B39IawiNS7QI/giphy.gif" height="160px" alt="Coder GIF">
+  <img src="https://media.giphy.com/media/12B39IawiNS7QI/giphy.gif" height="200px" alt="Coder GIF">
   
 </p>
 
@@ -16,7 +16,7 @@
 </div>
 
 
-# Hey I'm [Fahad!](https://www.linkedin.com/in/fahadansar1/) 👋
+<p> ## Hey I'm [Fahad!](https://www.linkedin.com/in/fahadansar1/) 👋 </p>
 
 <br/>
  
