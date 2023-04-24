@@ -1,7 +1,7 @@
 
 <p align="center">
 
-  <img src="https://media.giphy.com/media/12B39IawiNS7QI/giphy.gif" alt="Coder GIF">
+  <img src="https://media.giphy.com/media/12B39IawiNS7QI/giphy.gif" height="45px" alt="Coder GIF">
   
 </p>
 
@@ -19,32 +19,24 @@
 # Hey I'm [Fahad!](https://www.linkedin.com/in/fahadansar1/) 👋
 
 <br/>
-
- </br>
-</br>
-
-------------------------------
-<br />
-<br />
+ 
+### I am a🎓 Computer Science Student  <a href="https://brocku.ca/programs/undergraduate/computer-science/">@Faculty of Computer Science Brock University</a>
 
 <details>
-<summary> # <img src="https://media.giphy.com/media/mtAU9hD8qdrBC/giphy.gif" width="50" draggable="false" > About me </summary>
+<summary> # <img src="https://media.giphy.com/media/mtAU9hD8qdrBC/giphy.gif" width="50" draggable="false" > I am currently.. </summary>
 
-- 🎓 Computer Science Student  <a href="https://brocku.ca/programs/undergraduate/computer-science/">@Faculty of Computer Science Brock University</a>
 
-- 📖 Currently Reading: "**The Definitive Guide: Master the World's Most-Used Programming Language**" by [@David Flanagan](https://davidflanagan.com/)
+- 📖 ..Reading: "**The Definitive Guide: Master the World's Most-Used Programming Language**" by [@David Flanagan](https://davidflanagan.com/)
 
-- 🏃‍♂️ I am passionate about Web Developement, Mobile development and Quantum Computing 
+- 🏃‍♂️ ..passionate about Web Developement, Mobile development and Quantum Computing 
 
-- 🚧 I'm currently focused on improving my ability to provide high quality web applications 
+- 🚧 ..focused on improving my ability to provide high quality web applications 
 
-- 🍀 Excited to discuss about Machine Learning
+- 🍀 ..Excited to discuss about Machine Learning
 
-- ⚡ Fun fact about me: _ am ambidextral!_
-
-  
 </details>
 
+- ⚡ Fun fact about me: _ I am ambidextral!_
 - 💬 Favourite Quotes: 
 
   > “Learn from the mistakes of others. You can't live long enough to make them all yourself.” - Eleanor Roosevelt. <br/>
