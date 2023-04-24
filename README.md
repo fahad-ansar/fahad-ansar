@@ -21,6 +21,8 @@
 <br/>
  
 
+
+
 <details>
 <summary> <img src="https://media.giphy.com/media/mtAU9hD8qdrBC/giphy.gif" width="40" draggable="false" > I am currently.. </summary>
 
@@ -35,12 +37,6 @@
 - 🍀 ..Excited to discuss about Machine Learning
 
 </details>
-
-### Fun fact about me ⚡: _I am ambidextral!_
-### Favourite Quotes 💬: 
-
-  > “Learn from the mistakes of others. You can't live long enough to make them all yourself.” - Eleanor Roosevelt. <br/>
-  > “Take chances, make mistakes. That's how you grow.” - Mary Tyler Moore
 
 <details>
   <summary>
@@ -68,7 +64,13 @@
 </div>
 </details>
 
-
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fahad-ansar&layout=compact)](https://github.com/fahad-ansar/github-readme-stats)
+<br/>
+
+### Fun fact about me ⚡: _I am ambidextral!_
+### Favourite Quotes 💬: 
+
+  > “Learn from the mistakes of others. You can't live long enough to make them all yourself.” - Eleanor Roosevelt. <br/>
+  > “Take chances, make mistakes. That's how you grow.” - Mary Tyler Moore
+
 
