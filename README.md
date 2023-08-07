@@ -25,7 +25,6 @@
 
 <details>
 <summary> <img src="https://media.giphy.com/media/mtAU9hD8qdrBC/giphy.gif" width="40" draggable="false" > I am currently.. </summary>
-- 💻 ..Coding: Javascript-based websites with additional services and exploring different methodologies of web development! 
 
 - 🎓 .. a Computer Science Student  <a href="https://brocku.ca/programs/undergraduate/computer-science/">@Faculty of Computer Science Brock University</a>
 
@@ -36,6 +35,8 @@
 - 🚧 ..focused on improving my ability to provide high quality web applications 
 
 - 🍀 ..Excited to discuss about Machine Learning
+  
+- 💻 ..Coding: Javascript-based websites with additional services and exploring different methodologies of web development! 
 
 </details>
 
