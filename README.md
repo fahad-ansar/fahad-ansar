@@ -51,12 +51,14 @@
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="40" src="https://user-images.githubusercontent.com/44476743/221661465-36d2d16e-1fa5-48f3-add4-e27692b802e0.png"></code>
 <code><img height="40" src="https://user-images.githubusercontent.com/44476743/221660357-8e2d848c-acb9-4453-bb32-aea9cfc9514e.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
 
 <br />
 
   
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png"></code>
 <code><img height="40" src="https://user-images.githubusercontent.com/44476743/221658208-7dc9ca83-4bd3-41db-b0a5-0e5a4dde5bff.png"></code>
 <code><img height="40" src="https://user-images.githubusercontent.com/44476743/221665191-7997eefc-70f5-4066-9214-db7162d7eef6.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
