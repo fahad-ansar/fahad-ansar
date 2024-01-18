@@ -47,7 +47,6 @@
 <div align="center">
 
 <code><img height="40" src="https://user-images.githubusercontent.com/44476743/221657686-769796c7-10d2-411f-8d44-888537e9123d.png"></code>
-<code><img height="40" src="https://user-images.githubusercontent.com/44476743/221654317-2f1f2609-2af5-4c2a-9e6b-dd5a0a54b0fd.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="40" src="https://user-images.githubusercontent.com/44476743/221661465-36d2d16e-1fa5-48f3-add4-e27692b802e0.png"></code>
 <code><img height="40" src="https://user-images.githubusercontent.com/44476743/221660357-8e2d848c-acb9-4453-bb32-aea9cfc9514e.png"></code>
