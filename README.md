@@ -60,6 +60,7 @@
 <code><img height="40" src="https://user-images.githubusercontent.com/44476743/221658208-7dc9ca83-4bd3-41db-b0a5-0e5a4dde5bff.png"></code>
 <code><img height="40" src="https://user-images.githubusercontent.com/44476743/221665191-7997eefc-70f5-4066-9214-db7162d7eef6.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png"></code>
 
 
 
