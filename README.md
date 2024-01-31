@@ -28,15 +28,15 @@
 
 - 🎓 .. a Computer Science Student  <a href="https://brocku.ca/programs/undergraduate/computer-science/">@Faculty of Computer Science Brock University</a>
 
-- 📖 ..Reading: "**The Definitive Guide: Master the World's Most-Used Programming Language**" by [@David Flanagan](https://davidflanagan.com/)
+- 📖 ..Reading: "**Thinking, Fast and Slow**" by [@Daniel Kahneman]
 
-- 🏃‍♂️ ..passionate about Web Developement, Mobile development and Quantum Computing 
+- 🏃‍♂️ ..passionate about Web Developement, Mobile development, and Quantum Computing 
 
-- 🚧 ..focused on improving my ability to provide high quality web applications 
+- 🚧 ..focused on improving my ability to provide high-quality web applications 
 
-- 🍀 ..Excited to discuss about Machine Learning
+- 🍀 ..Excited to discuss Deep Learning
   
-- 💻 ..Coding: Javascript-based websites with additional services and exploring different methodologies of web development! 
+- 💻 ..Coding: websites with Angular! 
 
 </details>
 
