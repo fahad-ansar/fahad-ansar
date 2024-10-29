@@ -28,15 +28,15 @@
 
 - 🎓 .. a Computer Science Student  <a href="https://brocku.ca/programs/undergraduate/computer-science/">@Faculty of Computer Science Brock University</a>
 
-- 📖 ..Reading: "**Thinking, Fast and Slow**" by [@Daniel Kahneman]
+- 📖 ..Reading: "**JavaScript: The Good Parts**" by [@Douglas Crockford ]  
 
-- 🏃‍♂️ ..passionate about Web Developement, Mobile development, and Quantum Computing 
+- 🏃‍♂️ ..passionate about Full stack development, Mobile development, and Quantum Computing 
 
-- 🚧 ..focused on improving my ability to provide high-quality web applications 
+- 🚧 ..focused on improving my ability to provide high-quality complex web applications 
 
-- 🍀 ..Excited to discuss Deep Learning
+- 🍀 ..Excited to discuss Quantum Cryptography
   
-- 💻 ..Coding: websites with Angular! 
+- 💻 ..Coding: Quantum apps! 
 
 </details>
 
@@ -74,7 +74,7 @@
 ### Fun fact about me ⚡: _I am ambidextral!_
 ### Favourite Quotes 💬: 
 
-  > “Learn from the mistakes of others. You can't live long enough to make them all yourself.” - Eleanor Roosevelt. <br/>
-  > “Take chances, make mistakes. That's how you grow.” - Mary Tyler Moore
+  > “To know that we know what we know, and to know that we do not know what we do not know, that is true knowledge.” - Nicolaus Copernicus. <br/>
+  > “Beware of bugs in the above code; I have only proved it correct, not tried it.” - Donald Knuth
 
 
